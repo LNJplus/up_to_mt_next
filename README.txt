@@ -16,4 +16,4 @@ See <http://www.wtfpl.net/txt/copying/> for details!
 
 GitHub:
 -------
-https://github.com/LNJplus/up-to-mt_next
+https://github.com/LNJplus/up_to_mt_next
